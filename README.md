@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daichi1123&hide=PHP,blade
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daichi1123
 )](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
