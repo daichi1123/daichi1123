@@ -1,7 +1,9 @@
-### Hi there 👋
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daichi1123&hide=blade,HTML,CSS&theme=github_dark
-)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=daichi1123&count_private=true&theme=github_dark&hide=stars" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daichi1123&hide=blade,HTML,CSS&theme=github_dark" />
+</a>
 
 <!--
 **daichi1123/daichi1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
